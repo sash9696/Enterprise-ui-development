@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.1"
+  },
+  "dependencies": {
+    "@vitest/ui": "^1.0.1"
+  }
+}
